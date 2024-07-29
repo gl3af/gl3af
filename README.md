@@ -14,6 +14,7 @@ I'm Nikita, a professional **self taught** Frontend developer from Kazan, Russia
 ![](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 ![](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+![](https://img.shields.io/badge/-REST_API-000)
 
 ## Styling and UI
 
@@ -28,14 +29,19 @@ I'm Nikita, a professional **self taught** Frontend developer from Kazan, Russia
 ## State management
 
 ![](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![](https://img.shields.io/badge/-Redux--Toolkit-000?&logo=Redux)
 ![](https://img.shields.io/badge/-React_Query-000?&logo=reactquery)
 ![](https://img.shields.io/badge/-MobX-000?&logo=mobx)
+![](https://img.shields.io/badge/-Zustand-000)
 
 ## Others
 
 ![](https://img.shields.io/badge/-Jest-000?&logo=jest)
 ![](https://img.shields.io/badge/-Vitest-000?&logo=vitest)
 ![](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![](https://img.shields.io/badge/-SEO-000)
+![](https://img.shields.io/badge/-SSR--SSG-000)
 ![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![](https://img.shields.io/badge/-tRPC-000?&logo=trpc)
 ![](https://img.shields.io/badge/-GraphQL-000?&logo=graphql)
