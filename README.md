@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Nikita, a professional self taught Frontend developer from Kazan, Russia.
+Hi there, I'm Nikita, a professional **self taught** Frontend developer from Kazan, Russia.
 
 
 # 💻 Tech Stack:
